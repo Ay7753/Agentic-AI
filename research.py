@@ -7,8 +7,8 @@ from langgraph.prebuilt import create_react_agent
 
 #  Set API keys
 
-os.environ["GOOGLE_API_KEY"] = "your API key"
-os.environ["TAVILY_API_KEY"] = "your tavily API key"
+os.environ["GOOGLE_API_KEY"] = "AIzaSyAGcpkY6nbEgfmajuQYkA20FALucck6Jrw"
+os.environ["TAVILY_API_KEY"] = "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"
 
 
 # Initialize memory & model
